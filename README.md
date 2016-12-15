@@ -1,4 +1,4 @@
-# Salanda
+# Salad
 A clean one-page website
 
-Preview: http://alexflipnote.xyz/Salanda/
+Preview: http://kdiacoding.github.io/Salad/
